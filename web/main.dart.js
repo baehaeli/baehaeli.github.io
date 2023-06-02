@@ -34170,7 +34170,7 @@ A.c(s,o)
 A.c(q.d,o)
 s=A.c2("",p,p,p)
 r=t.p
-return A.a6X(A.mW(A.a66(A.a([s,A.uH(A.a([A.c2("\u25ce\uc2e4\uc2dc\uac04 :  ",A.m1(p,p,B.pQ,p,p,p,p,p,p,p,p,p,p,B.aA,p,p,!0,p,p,p,p,p,p,p,p),p,p),A.c2(A.c(q.c,"model").a,p,p,p)],r),B.aM,B.d8,B.aU,p),A.c2("",p,p,p),A.uH(A.a([A.c2("\u25ce\uc608\uc0c1 \ub300\uae30 \uc2dc\uac04 :  ",A.m1(p,p,B.pQ,p,p,p,p,p,p,p,p,p,p,B.aA,p,p,!0,p,p,p,p,p,p,p,p),p,p),A.c2(A.c(q.c,"model").b,p,p,p)],r),B.aM,B.d8,B.aU,p),A.c2("",p,p,p),new A.rM(new A.o_("http://172.17.3.47:3000/api/data/graph"),300,p)],r),B.d8,B.aU),p,p),p)}}
+return A.a6X(A.mW(A.a66(A.a([s,A.uH(A.a([A.c2("- \uc2e4\uc2dc\uac04 :  ",A.m1(p,p,B.pQ,p,p,p,p,p,p,p,p,p,p,B.aA,p,p,!0,p,p,p,p,p,p,p,p),p,p),A.c2(A.c(q.c,"model").a,p,p,p)],r),B.aM,B.d8,B.aU,p),A.c2("",p,p,p),A.uH(A.a([A.c2("- \uc608\uc0c1 \ub300\uae30 \uc2dc\uac04 :  ",A.m1(p,p,B.pQ,p,p,p,p,p,p,p,p,p,p,B.aA,p,p,!0,p,p,p,p,p,p,p,p),p,p),A.c2(A.c(q.c,"model").b,p,p,p)],r),B.aM,B.d8,B.aU,p),A.c2("",p,p,p),new A.rM(new A.o_("http://172.17.3.47:3000/api/data/graph"),300,p)],r),B.d8,B.aU),p,p),p)}}
 A.DD.prototype={
 L(a,b){var s,r,q,p,o=this,n=null,m="mealmodel"
 A.jP(b,t.ez)
